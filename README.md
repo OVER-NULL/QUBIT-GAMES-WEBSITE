@@ -2,8 +2,7 @@
 
 ![](https://img.shields.io/badge/HTML-5-orange.svg) ![](https://img.shields.io/badge/CSS-5-blue.svg) 
 ![](https://img.shields.io/badge/license-Apache2.0-lightgray.svg) ![](https://img.shields.io/badge/version-0.0b.9a-yellow.svg) 
-![](https://img.shields.io/badge/build-passing-green.svg) ![](https://img.shields.io/badge/forks-0-lightpink.svg) 
-![](https://img.shields.io/badge/stars-1-lightpink.svg)
+![](https://img.shields.io/badge/build-passing-green.svg) 
 
 > Website for QUBIT GAMES 
 
